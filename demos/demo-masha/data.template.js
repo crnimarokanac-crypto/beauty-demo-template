@@ -4,7 +4,7 @@
 
 window.SITE_DATA = {
   business: {
-    name: "Masha",
+    name: "Beauty by Masha",
     city: "Novi Beograd",
     phone: "063 7703237",
     whatsapp: "063 7703237",
